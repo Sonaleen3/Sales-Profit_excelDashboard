@@ -2,6 +2,7 @@
 
 This project is an interactive dashboard built in Microsoft Excel to analyze sales and profit performance across different categories, years, and months. It provides a comprehensive view of business metrics and customer insights through dynamic visualizations.
 
+
 Key Features
 
 Interactive slicers for category, year, and month filtering
@@ -17,6 +18,7 @@ Monthly sales trend visualization
 Customer distribution overview (donut chart)
 
 Top 5 customers by profit analysis
+
 
 
 Tech Stack
